@@ -56,9 +56,9 @@ export default () => {
       </section>
 
       <footer>
-        Feito com <span role="img" aria-label="coração">❤️</span><br/>
-        Direitos de imagem para Netflix<br/>
-        Dados do site themoviedb.org
+        Done with <span role="img" aria-label="coração">❤️</span><br/>
+        Rights of image for Netflix<br/>
+        Data from web themoviedb.org
       </footer>
 
       {movieList.length <=0 &&
